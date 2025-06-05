@@ -2,7 +2,7 @@
 
 Welcome to my first hands-on data science project using a real-world dataset from [Kaggle](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset). This project explores various stages of the data science workflow—from exploratory data analysis to machine learning model implementation and optimization.
 
-> 🚀 **Goal:** Learn by doing, showcase my growing skill set, and help others who want to follow a beginner-friendly path into machine learning and data analysis.
+> **Goal:** Learn by doing, showcase my growing skill set, and help others who want to follow a beginner-friendly path into machine learning and data analysis.
 
 ---
 
@@ -57,21 +57,21 @@ The Jupyter Notebook walks through the following steps in detail:
 
 ---
 
-## 📈 Project Status
+## Project Status
 
-✅ Complete – The notebook has a working pipeline from data loading to model evaluation.  
-📘 Beginner-friendly – The project is well-commented and easy to follow.
+Complete – The notebook has a working pipeline from data loading to model evaluation.  
+Beginner-friendly – The project is well-commented and easy to follow.
 
 ---
 
-## 🤝 Who Should Use This
+## Who Should Use This
 - Beginners looking to **understand end-to-end machine learning workflows**
 - Students preparing for **data science interviews or competitions**
 - Anyone exploring **healthcare-related ML problems**
 
 ---
 
-## 🙋‍♂️ Why I Built This
+## Why I Built This
 
 As someone starting their journey into applied AI and data science, I wanted to:
 - Learn by doing
@@ -80,7 +80,7 @@ As someone starting their journey into applied AI and data science, I wanted to:
 
 ---
 
-## 📎 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open the Jupyter Notebook
@@ -88,12 +88,12 @@ As someone starting their journey into applied AI and data science, I wanted to:
 
 ---
 
-## 📬 Feedback Welcome!
+## Feedback Welcome!
 
 Feel free to raise issues, suggest improvements, or fork the repo. I'd love to hear from fellow learners or mentors!
 
 ---
 
 **Author:** Ullas Ameriya
-📧 https://linkedin.com/in/ullasameriya
+https://linkedin.com/in/ullasameriya
 
